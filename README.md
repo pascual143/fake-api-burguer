@@ -1,4 +1,4 @@
-# fake-api-burguer
+# Fake-api-burguer
 
 # Api to practice json models
 
